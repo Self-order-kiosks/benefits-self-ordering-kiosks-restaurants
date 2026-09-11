@@ -1,14 +1,22 @@
 # Benefits of Self Ordering Kiosks for Restaurants
 
+<p align="center">
+  <a href="https://www.posso.co.uk/self-order-kiosks">
+    <img src="https://www.posso.co.uk/images/posso-kiosk-krispy-kreme-customers.jpg" alt="Customers ordering at a Posso self-service kiosk at a UK food outlet" width="820" />
+  </a>
+</p>
+
+> **Quick answer:** Self-ordering kiosks help UK restaurants and takeaways **increase average order value by 20–30%**, **cut order errors to under 1%**, and **process 30–40% more orders per hour** — typically paying for themselves in **under three months**. Below are 18 data-backed benefits, a full ROI calculator, and worked before/after scenarios for UK operators. See [Posso's self-order kiosks](https://www.posso.co.uk/self-order-kiosks) for the systems behind these numbers.
+
 The benefits of self ordering kiosks for restaurants are backed by hard data, not hype. Across the UK hospitality industry, restaurants and takeaways that have adopted self-service kiosks report measurable improvements in revenue, efficiency, accuracy, and customer satisfaction. This article compiles over 15 specific, data-driven benefits, walks through ROI calculations for different restaurant types, and provides the evidence you need to make an informed investment decision.
 
-Whether you run a busy high-street takeaway, a sit-down restaurant, or a quick-service food outlet, the numbers tell a compelling and consistent story.
+Whether you run a busy high-street takeaway, a sit-down restaurant, or a quick-service food outlet, the numbers tell a compelling and consistent story. If you are ready to compare hardware and pricing, start with [Posso's UK self-order kiosks](https://www.posso.co.uk/self-order-kiosks).
 
 ## Revenue Benefits
 
 ### 1. Average Order Value Increases by 20-30%
 
-This is the single most impactful financial benefit. When customers order through a kiosk rather than at a counter, they consistently spend more. Research from multiple sources — including internal data from McDonald's, Taco Bell, and independent UK operators — shows a 20-30% increase in average order value.
+This is the single most impactful financial benefit. When customers order through a kiosk rather than at a counter, they consistently spend more. Figures publicly reported by large chains such as McDonald's, alongside widely cited industry studies and Posso's own UK deployments, point to a **20-30% increase in average order value** (see [Sources & notes](#sources--notes) below).
 
 Why does this happen? Several psychological and practical factors converge:
 
@@ -96,7 +104,7 @@ Every kiosk transaction generates data: what was ordered, when, what upsells wer
 
 ### 17. Reduced Cash Handling
 
-With [integrated card payment on self-order kiosks](https://github.com/Self-order-kiosks/self-order-kiosk-card-payment-uk), cash handling decreases significantly. This reduces time spent counting tills, eliminates cash shortages and discrepancies, lowers the risk of theft, and removes the cost of cash collection services. In a UK market where 85%+ of transactions are already cashless, this benefit accelerates a trend that is already well underway.
+With [integrated card payment on self-order kiosks](https://github.com/Self-order-kiosks/self-order-kiosk-card-payment-uk), cash handling decreases significantly. This reduces time spent counting tills, eliminates cash shortages and discrepancies, lowers the risk of theft, and removes the cost of cash collection services. In a UK market where 85%+ of transactions are already cashless, this benefit accelerates a trend that is already well underway. Posso kiosks pair with [Posso's UK card machines and payment processing](https://www.posso.co.uk/credit-card-machines) so takings settle straight into one reconciled dashboard.
 
 ### 18. Lower Training Costs
 
@@ -148,7 +156,7 @@ If the upfront hardware cost is £1,500 (a typical price for a quality commercia
 
 The ROI story is consistent across every restaurant type. The higher the average order value, the greater the absolute uplift per transaction. The higher the order volume, the greater the cumulative impact.
 
-For fish and chip shops specifically, see our dedicated guide to [self-ordering kiosks for fish and chip shops](https://github.com/Self-order-kiosks/self-ordering-kiosk-fish-chip-shop).
+For fish and chip shops specifically, see our dedicated guide to [self-ordering kiosks for fish and chip shops](https://github.com/Self-order-kiosks/self-ordering-kiosk-fish-chip-shop) — and Posso's [EPOS and till system for fish & chip shops](https://www.posso.co.uk/pos-for-fish-and-chip-shop) for the kiosk-plus-POS setup that delivers this payback.
 
 ## Before and After: Scenario Analysis
 
@@ -174,7 +182,7 @@ Some kiosk benefits resist easy quantification but are no less real:
 
 - **Competitive differentiation.** In a high street with five takeaways, the one with a modern self-order kiosk looks more professional, more hygienic, and more appealing to younger demographics.
 - **Future-readiness.** Consumer expectations are shifting towards digital self-service. Early adopters build customer habits that create switching costs for competitors.
-- **Integration potential.** A kiosk is often the gateway to a broader digital ecosystem — online ordering, loyalty programmes, kitchen display systems, and data-driven menu optimisation. Many businesses that start with a kiosk go on to adopt a full [restaurant self-service kiosk system](https://github.com/Self-order-kiosks/restaurant-self-service-kiosk-system-uk) or upgrade to an integrated [POS system for takeaways](https://github.com/Self-order-kiosks/pos-system-for-takeaway-uk).
+- **Integration potential.** A kiosk is often the gateway to a broader digital ecosystem — online ordering, loyalty programmes, kitchen display systems, and data-driven menu optimisation. Many businesses that start with a kiosk go on to adopt a full [restaurant self-service kiosk system](https://github.com/Self-order-kiosks/restaurant-self-service-kiosk-system-uk) or upgrade to an integrated [POS system for takeaways](https://github.com/Self-order-kiosks/pos-system-for-takeaway-uk). Posso builds exactly this stack — see [Posso self-order kiosks](https://www.posso.co.uk/self-order-kiosks), and for mobile and outdoor traders, [food truck & trailer EPOS](https://www.posso.co.uk/food-truck-epos-system).
 
 ## Common Objections Addressed
 
@@ -196,12 +204,23 @@ The benefits of self-ordering kiosks are not theoretical. They are measured, doc
 
 The only remaining question is timing: adopt now and gain the advantage, or wait and catch up later.
 
+## Sources & notes
+
+- The **20–30% average-order-value uplift** is widely reported across quick-service hospitality; McDonald's has publicly attributed higher average checks to its self-order kiosks, and Posso observes similar uplifts across its UK deployments.
+- **Throughput, order-accuracy and customer-satisfaction ranges** are drawn from widely cited hospitality-technology studies and operator reporting. Ranges are given deliberately because results vary by menu complexity, footfall, kiosk placement and configuration.
+- The **ROI calculator and restaurant-type table** are an *illustrative model* built on the stated assumptions, not a guarantee of results. Plug in your own average order value, volume and costs to size the opportunity for your site.
+- **Natasha's Law** (UK allergen labelling, in force October 2021) is factual; a kiosk supports compliance but does not by itself satisfy every legal duty — check your obligations.
+
+Want figures modelled for your specific site? [Talk to Posso](https://www.posso.co.uk/contact) and we will run the numbers on your actual menu and footfall.
+
+*Last updated: September 2026.*
+
 ---
 
 **Ready to get started?**
-- [View Pricing](https://posso.co.uk/)
-- [Book a Demo](https://posso.co.uk/)
-- [Get Installation Support](https://posso.co.uk/)
+- [See self-order kiosks](https://www.posso.co.uk/self-order-kiosks)
+- [View EPOS pricing](https://www.posso.co.uk/epos-pricing-uk)
+- [Book a demo](https://www.posso.co.uk/contact)
 
 *Posso — Self-service kiosk and POS systems built for UK takeaways and restaurants.*
 
@@ -213,16 +232,16 @@ Every takeaway and restaurant is different. That is why we do not just sell off-
 
 Whether you need custom integrations, bespoke ordering workflows, unique reporting, or features that no other provider offers — our development team can build it for you.
 
-**Contact Posso for more information about custom software development for your business.**
+**[Contact Posso](https://www.posso.co.uk/contact) for more information about custom software development for your business.**
 
 ---
 
 <p align="center">
-  <a href="https://posso.co.uk/">
+  <a href="https://www.posso.co.uk/self-order-kiosks">
     <img src="https://img.shields.io/badge/VISIT%20POSSO-Get%20Your%20Free%20Demo-blue?style=for-the-badge&labelColor=000000" alt="Visit Posso" />
   </a>
 </p>
 
-<h2 align="center"><a href="https://posso.co.uk/">👉 posso.co.uk — Get Started Today 👈</a></h2>
+<h2 align="center"><a href="https://www.posso.co.uk/self-order-kiosks">👉 posso.co.uk — Get Started Today 👈</a></h2>
 
 <p align="center"><strong>Posso — POS systems, self-service kiosks, and specialist software for UK takeaways and restaurants.</strong></p>
